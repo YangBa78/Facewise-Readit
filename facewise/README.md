@@ -1,4 +1,4 @@
-- Python
-current version Python 3.9\
+- Python\
+current version Python 3.9
 
 
