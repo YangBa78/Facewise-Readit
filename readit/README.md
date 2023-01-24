@@ -20,10 +20,8 @@ current version Python 3.10.4
 - install yarn 
 `sudo npm install -g yarn`
 
--cd "my-app" folder and run 
-`npm install react-scripts@latest`
-
-`yarn build`
+- cd "my-app" folder and run 
+`npm install react-scripts@latest` and  `yarn build`
 
 - copy all files under "../my-app/build/static" folder to "../my-flask/static" folder\
 copy all rest files under "../my-app/build" folder to "../my-flask/templates" folder
