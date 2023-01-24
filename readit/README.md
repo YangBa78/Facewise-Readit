@@ -5,10 +5,10 @@ list the environment\
 `$ conda env list`\
 such as readit-project
 
-- Python
+- python\
 current version Python 3.10.4
 
-- Create/Activate the new environment to use it\
+- create/activate the new environment to use it\
   `conda activate readit-project`
 
 - cd 'my-flask" folder and install required packages\
