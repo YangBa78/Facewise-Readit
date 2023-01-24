@@ -3,22 +3,21 @@
 - using Anaconda
 list the environment\
 `$ conda env list`\
-such as readit-project\
+such as readit-project
 
 - Python
-current version Python 3.10.4\
+current version Python 3.10.4
 
-Create/Activate the new environment to use it\
- `conda activate readit-project`\
+- Create/Activate the new environment to use it\
+  `conda activate readit-project`
 
 - cd 'my-flask" folder and install required packages\
 `$ pip install -r requirements.txt`
 
-- install npm nodejs
-`sudo apt install npm nodejs`
+- install npm nodejs 
+ `sudo apt install npm nodejs`
 
 - install yarn 
-
 `sudo npm install -g yarn`
 
 -cd "my-app" folder and run 
@@ -26,8 +25,8 @@ Create/Activate the new environment to use it\
 
 `yarn build`
 
-- copy all files under ../my-app/build/static to ../my-flask/static\
-copy all rest files under ../my-app/build to ../my-flask/templates
+- copy all files under "../my-app/build/static" folder to "../my-flask/static" folder\
+copy all rest files under "../my-app/build" folder to "../my-flask/templates" folder
 
 
 - install and run redis server
