@@ -1,0 +1,27 @@
+/my-app/node_modules
+/my-app/bundle.js
+/my-app/npm-debug.log
+/my-app/.DS_Store
+/my-app/src/_DS_Store
+/my-app/build
+/my-app/.vscode/*
+/my-app/package-lock.json
+/my-flask/app/.DS_Store
+/my-flask/.DS_Store
+/my-flask/__pycache__/*
+/my-flask/app/__pycache__/*
+/my-flask/venv
+/my-flask/microblog.py
+/my-flask/.idea
+/my-flask/*.ipynb
+/my-flask/.ipynb_checkpoints/*
+
+# IntelliJ
+/my-app/*.iml
+/my-app/.idea
+/my-app/yarn.lock
+
+yarn.lock
+.DS_Store
+
+/.vscode/*
