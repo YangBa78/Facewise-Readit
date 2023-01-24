@@ -6,7 +6,7 @@ list the environment\
 such as readit-project
 
 - python\
-current version Python 3.10.4
+current version python 3.10.4
 
 - create/activate the new environment to use it\
   `conda activate readit-project`
