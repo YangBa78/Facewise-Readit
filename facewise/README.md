@@ -1,15 +1,15 @@
 Implementation on linux environment or servers, like Google Cloud Platform \
-- using Anaconda list the environment \
+- Using Anaconda list the environment \
 `$ conda env list`
 such as facewise-project
 
-- python
+- Python \
 current version python 3.9
 
-- create/activate the new environment to use it \
+- Create/activate the new environment to use it \
 `conda activate facewise-project`
 
-- install required packages \
+- Install required packages \
 `$ pip install -r requirements.txt`
 
 - To execute Facewise Low MAST ver `templates/facewise/facewise-low-mast.html`, add `/facewisenewlm` to server address \
@@ -20,4 +20,4 @@ ex) http://analog-height-296717.uc.r.appspot.com/facewisenew
 
 - To change the collected data location, change the key of `datastore.Entity` in `/main.py` Line 72
 
-- Install CORS (More information [here](https://www.youtube.com/watch?v=KruSUqLdxQA))
+- Install CORS for Chrome/Firefox/Opera/Edge (More information [here](https://www.youtube.com/watch?v=KruSUqLdxQA))
