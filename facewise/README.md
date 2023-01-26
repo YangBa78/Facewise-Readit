@@ -1,5 +1,5 @@
-Implementation on linux environment or servers, like Google Cloud Platform
-using Anaconda list the environment
+Implementation on linux environment or servers, like Google Cloud Platform \
+- using Anaconda list the environment \
 `$ conda env list`
 such as facewise-project
 
