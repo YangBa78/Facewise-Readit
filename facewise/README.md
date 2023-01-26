@@ -18,7 +18,6 @@ ex) http://analog-height-296717.uc.r.appspot.com/facewisenewlm
 - To execute Facewise High MAST ver `templates/facewise/facewise-new.html`, add `/facewisenew` to server address \
 ex) http://analog-height-296717.uc.r.appspot.com/facewisenew
 
-- To change the data location, change the key of `datastore.Entity` \
-/main.py Line 72
+- To change the collected data location, change the key of `datastore.Entity` in `/main.py` Line 72
 
 - Install CORS (More information [here](https://www.youtube.com/watch?v=KruSUqLdxQA))
