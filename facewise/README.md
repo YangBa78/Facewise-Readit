@@ -12,10 +12,10 @@ current version python 3.9
 - install required packages \
 `$ pip install -r requirements.txt`
 
-- To execute Facewise Low MAST ver `templates/facewise/facewise-low-mast.html`, add /facewisenewlm \
+- To execute Facewise Low MAST ver `templates/facewise/facewise-low-mast.html`, add /facewisenewlm to server address \
 ex) http://analog-height-296717.uc.r.appspot.com/facewisenewlm
 
-- To execute Facewise High MAST ver `templates/facewise/facewise-new.html`, add /facewisenew \
+- To execute Facewise High MAST ver `templates/facewise/facewise-new.html`, add /facewisenew to server address \
 ex) http://analog-height-296717.uc.r.appspot.com/facewisenew
 
 - To change the data location, change the key of `datastore.Entity` \
